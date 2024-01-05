@@ -4707,6 +4707,9 @@ tundraheadquarters.com##a[href^="http://www.tkqlhce.com/"]
 shareae.com##a[href^="https://aejuice.com/"]
 lilymanga.com##a[href^="https://amzn.to/"]
 downloadhub.ltd##a[href^="https://bestbuyrdp.com/"]
+vure.cx##a[href*="rebrand.ly"]
+vure.cx##.fjefjios
+vure.cx##.nwiegnoisd
 detectiveconanworld.com##a[href^="https://brave.com/"]
 cript.to##a[href^="https://cript.to/goto/"]
 cript.to##a[href^="https://cript.to/link/"][href*="?token="]
